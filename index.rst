@@ -38,4 +38,8 @@ Documentation
    examples/tableofcontents/index
    examples/templatedesign/index
 
+.. toctree::
+   :maxdepth: 1
 
+   Documentation
+   Javadoc
